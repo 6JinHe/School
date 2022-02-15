@@ -1,3 +1,8 @@
 # The School
-  ## He Jin and Angel Zhou
-  ## tttt
+
+## Members of the team
+
+  He Jin and Angel Zhou
+  ## things I learnt
+  
+  blablabla
